@@ -1,0 +1,13 @@
+jupyterlab
+jupyter
+matplotlib
+numpy<2
+pandas
+scikit-learn<1.6
+seaborn
+scikit-image
+xgboost==2.0.3
+requests
+shap
+interpret
+graphviz
