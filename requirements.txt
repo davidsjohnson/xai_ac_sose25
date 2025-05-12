@@ -10,3 +10,4 @@ xgboost==2.0.3
 requests
 shap
 interpret
+lime
