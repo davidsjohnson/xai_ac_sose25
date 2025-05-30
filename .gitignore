@@ -1,5 +1,8 @@
-data/affectnet_data/
 notebooks/data/
 *__MACOSX/
 
 data/affectnet_data.zip
+data/affectnet/
+data/affectnet_data/
+
+*_solutions.ipynb
