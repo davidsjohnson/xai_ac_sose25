@@ -11,3 +11,8 @@ requests
 shap
 interpret
 lime
+torch
+torchvision
+lime
+alibi
+grad-cam
