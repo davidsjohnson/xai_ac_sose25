@@ -4,6 +4,7 @@ notebooks/data/
 data/affectnet_data.zip
 data/affectnet/
 data/affectnet_data/
+data/ravdess/
 
 *_solutions.ipynb
 # Ignore Jupyter Notebook checkpoints
