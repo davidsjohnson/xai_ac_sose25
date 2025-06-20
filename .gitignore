@@ -8,3 +8,5 @@ data/affectnet_data/
 *_solutions.ipynb
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+notebooks/FeatureVisualization

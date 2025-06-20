@@ -16,3 +16,4 @@ torchvision
 lime
 alibi
 grad-cam
+zennit-crp[fast_img]
